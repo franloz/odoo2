@@ -1,0 +1,60 @@
+<odoo>
+    <data>
+<!--
+          <record id="object0" model="odoo399.odoo399">
+            <field name="name">Object 0</field>
+            <field name="value">0</field>
+          </record>
+
+          <record id="object1" model="odoo399.odoo399">
+            <field name="name">Object 1</field>
+            <field name="value">10</field>
+          </record>
+
+          <record id="object2" model="odoo399.odoo399">
+            <field name="name">Object 2</field>
+            <field name="value">20</field>
+          </record>
+
+          <record id="object3" model="odoo399.odoo399">
+            <field name="name">Object 3</field>
+            <field name="value">30</field>
+          </record>
+
+          <record id="object4" model="odoo399.odoo399">
+            <field name="name">Object 4</field>
+            <field name="value">40</field>
+          </record>
+-->
+         <record id="zapatillas1" model="odoo399.zapatilla399">
+            <field name="name">5</field>
+            <field name="modelo">Mier</field>
+            <field name="marca">Reebook</field>
+          </record>
+         <record id="zapatillas2" model="odoo399.zapatilla399">
+            <field name="name">1</field>
+            <field name="modelo">Fuer</field>
+            <field name="marca">Puma</field>
+          </record>
+          <record id="sudaderas1" model="odoo399.sudaderas">
+            <field name="name">Adidas</field>
+            <field name="talla">40</field>
+            <field name="color">Azul</field>
+          </record>
+          <record id="sudaderas2" model="odoo399.sudaderas">
+            <field name="name">Vans</field>
+            <field name="talla">42</field>
+            <field name="color">Rojo</field>
+          </record>
+          <record id="abrigos1" model="odoo399.abrigos">
+            <field name="name">23</field>
+            <field name="material">Cuero</field>
+            <field name="marca">Joma</field>
+          </record>
+          <record id="abrigos2" model="odoo399.abrigos">
+            <field name="name">12</field>
+            <field name="material">Algodon</field>
+            <field name="marca">Puma</field>
+          </record>
+    </data>
+</odoo>

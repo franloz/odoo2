@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo399_zapatilla399_usuario,odoo399.zapatilla399.usuario,model_odoo399_zapatilla399,odoo399.group_odoo399_usuario,1,0,0,0
+access_odoo399_zapatilla399_administrador,odoo399.zapatilla399.administrador,model_odoo399_zapatilla399,odoo399.group_odoo399_administrador,1,1,1,1_
+access_odoo399_sudaderas_usuario,odoo399.sudaderas.usuario,model_odoo399_sudaderas,odoo399.group_odoo399_usuario,1,0,0,0
+access_odoo399_sudaderas_administrador,odoo399.sudaderas.administrador,model_odoo399_sudaderas,odoo399.group_odoo399_administrador,1,1,1,1_
+access_odoo399_abrigos_usuario,odoo399.abrigos.usuario,model_odoo399_abrigos,odoo399.group_odoo399_usuario,1,0,0,0
+access_odoo399_abrigos_administrador,odoo399.abrigos.administrador,model_odoo399_abrigos,odoo399.group_odoo399_administrador,1,1,1,1_
